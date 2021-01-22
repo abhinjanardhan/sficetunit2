@@ -42,7 +42,9 @@ body a:hover{
 	
 	
 }
-
+.linkbold{
+	font-weight:500;
+}
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
