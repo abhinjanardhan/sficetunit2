@@ -430,8 +430,12 @@ ul.wmuSliderPagination {
     line-height: 1.8em;
 }
 .panel-title > a, .panel-title > small, .panel-title > .small, .panel-title > small > a, .panel-title > .small > a {
-    color:white;
+    
+   
+color: white;
     text-decoration: none;
+    font-weight: 400;
+    font-size: medium;
 }
 .panel-title {
     font-size: 150%;
