@@ -2716,20 +2716,30 @@ footer p ,footer p a,.copyright p{
 .copyright p a{
     color: #ccc;
 }
-footer ul.social_section_1info a {
+a {
     background: none;
     margin: 0;
     line-height: initial;
     width: auto;
     height: auto;
     font-size: 13px;
-    margin-left: 20px;}
+    margin-left: 20px;
+}
+
+footer ul.social_section_1info{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
 footer ul.social_section_1info a span.fa{
     color: #aaa;
     line-height: 35px;
     font-size: 13px;
 }footer p, footer p a, .copyright p {
     color: #999;
+}
+footer .footer-bot{
+	float:right;
 }
 p {
     margin: 0;
