@@ -2998,4 +2998,6 @@ footer h3 #logoLink1{
 }.footer-bot{
 	text-align:"center"}
 }.play{
-	font-size:40px;}
+	font-size:40px;
+	padding:3em;
+}
